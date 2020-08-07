@@ -75,7 +75,6 @@ Map : key,Value로 구성되어 있어 Key로 value를 찾는다 중복 X
 ```
 상속은 is a 
 컴포지션은 has a 
-```
 Ex) 
 	아반떼 is a 자동차 -> 상속 
 	자동차 has a 바퀴
