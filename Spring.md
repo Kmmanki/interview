@@ -40,4 +40,27 @@ Ex)
 
 ```
 
-디컴파일
+ResfulAPI
+
+```
+RestAPI
+자원의 이름으로 구분하여 정보를 주고 받는 것
+	Get :조회
+	Post: 작성
+	put: 수정
+	delete: 삭제
+	
+```
+
+JWT
+
+```
+Json Web Token
+	클라이언스와 서버간의 권한을 위해 사용되는 토큰
+	Header, Payload, Signature로 구분됨
+	
+	Header: 서명 알고리즘과 암호화시 사용하는 키를 가지고 있다.
+	Payload: JWT에 담는 내용(속성)으로 Claim이라 부른다.
+	Signature: 헤더 + 시그니처를 암호화 한 것
+```
+
